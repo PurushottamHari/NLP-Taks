@@ -5,6 +5,8 @@ Created on Fri Dec  6 16:14:44 2019
 @author: PURUSHOTTAM
 """
 
+#The first class of NLP wherin we understood the basics of python and strings
+
 text = "Shakespeare gave the world best of theatrics"
 words = text.split(" ")
 print(words[0])
